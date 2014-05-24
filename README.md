@@ -10,7 +10,7 @@ To use the code here in just download the Dataset along the run_analysis.R file 
 
 ## Purpose
 
-The purpose of this analysis is to demostrate the ability to collect and handle data to clean the data set tho show some results. 
+The purpose of this analysis is to demostrate the ability to collect and handle data to clean the data set and get some primary results. For this I'm using R statistical software. The code for the data cleaning and creating the tidy dataset is run_analysis.r 
 
 Results can be seen in the tidysetofmeans.txt file created automatically by the run_analysis script
 
