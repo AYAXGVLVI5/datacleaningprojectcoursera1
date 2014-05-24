@@ -44,5 +44,6 @@ mean : means the feature is a mean
 * t,m : the name can begin in t or m if the measurement is either in the time domain or in the frequency domain 
 * jerk : represent the measurement of the derivative of the acceleration
 * mag: magnitude of the measurement
-* angle: angle of the measurement
+* angle: angle between vectors of the measurement
 
+Names are very similar to the raw data, taking out parenthesis and hypens, and converting uppercase to lower case for convenience and tidyness. For more information regarding names please refer to the file features_info made by the creator of the raw data. 
